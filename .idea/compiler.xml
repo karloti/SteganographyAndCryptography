@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Steganography_and_Cryptography.Steganography_and_Cryptography-task-build-classes-kotlin.main" target="11" />
+      <module name="Steganography_and_Cryptography.Steganography_and_Cryptography-task-build-reports-tests.main" target="11" />
+      <module name="Steganography_and_Cryptography.Steganography_and_Cryptography-task-build-test-results.main" target="11" />
+      <module name="Steganography_and_Cryptography.Steganography_and_Cryptography-task-build-tmp.main" target="11" />
+      <module name="Steganography_and_Cryptography.Steganography_and_Cryptography-task.main" target="11" />
+      <module name="Steganography_and_Cryptography.Topics-Image_colors-Color_instance_initiation.main" target="11" />
+      <module name="Steganography_and_Cryptography.Topics-Image_colors-Generate_ARGB_value.main" target="11" />
+      <module name="Steganography_and_Cryptography.Topics-Image_colors-Print_color.main" target="11" />
+      <module name="Steganography_and_Cryptography.Topics-Image_colors-Theory.main" target="11" />
+      <module name="Steganography_and_Cryptography.Topics-Image_libraries-Drawing_a_red_square.main" target="11" />
+      <module name="Steganography_and_Cryptography.Topics-Image_libraries-Drawing_four_circles.main" target="11" />
+      <module name="Steganography_and_Cryptography.Topics-Image_libraries-Drawing_three_strings.main" target="11" />
+      <module name="Steganography_and_Cryptography.Topics-Image_libraries-Drawing_two_lines.main" target="11" />
+      <module name="Steganography_and_Cryptography.Topics-Image_libraries-Theory.main" target="11" />
+      <module name="Steganography_and_Cryptography.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

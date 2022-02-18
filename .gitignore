@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Steganography and Cryptography/task/build/
+/Steganography and Cryptography/task/out/
+/Steganography and Cryptography/task/out/production/classes/
+/Topics/Image colors/Generate ARGB value/out/
+/Topics/Image colors/Generate ARGB value/out/production/classes/
+/Topics/Image libraries/Drawing a red square/out/
+/Topics/Image libraries/Drawing a red square/out/production/classes/
+/Topics/Image libraries/Drawing four circles/out/
+/Topics/Image libraries/Drawing four circles/out/production/classes/
+/Topics/Image libraries/Drawing three strings/out/
+/Topics/Image libraries/Drawing three strings/out/production/classes/
+/Topics/Image libraries/Drawing two lines/out/
+/Topics/Image libraries/Drawing two lines/out/production/classes/
